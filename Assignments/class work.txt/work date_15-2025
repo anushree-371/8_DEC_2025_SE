@@ -1,0 +1,48 @@
+15 date :
+----------
+
+use case: use case diagram which is represent user activity with system
+in this use case diagram there are 3 main section 
+
+1) actor : which is represent actor or user of the system 
+
+2) activity : which is reprsent by boval symbol- which represent activity perform by respeective user or actor
+
+3) system : system which is surrounded by reactangle  boarders
+
+
+Through draw.io
+--------------------------------------------------------------------------
+
+Include : include which is indicate by <<include>> like this
+
+                Whichn means  which is mandatory to perform specific activity
+Extend : this is indicate by <<extend>>
+              Which is optional .
+
+
+--------------------------------------------------------------------------
+Flow chart diagram :
+
+                   Flow chart diagram this is very important diagram of system planning 
+                   
+                    Flow chart which represent system flow – step by step 
+                  
+                     Which is mainly represent that how system work step by step:
+                           e.g.
+
+                             step 1
+                             |
+                             V
+                              Step 2
+                             …
+      Oval : this is symbol which is represent starting point of flow chart.
+
+   Rectangle: which is represent process.
+
+Diamond : which is represent condition or decision
+
+Arrow : which is use for connectors. 
+   
+ 
+
