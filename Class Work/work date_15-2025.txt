@@ -1,5 +1,4 @@
 15 date :
-----------
 
 use case: use case diagram which is represent user activity with system
 in this use case diagram there are 3 main section 
@@ -12,7 +11,6 @@ in this use case diagram there are 3 main section
 
 
 Through draw.io
---------------------------------------------------------------------------
 
 Include : include which is indicate by <<include>> like this
 
@@ -21,7 +19,7 @@ Extend : this is indicate by <<extend>>
               Which is optional .
 
 
---------------------------------------------------------------------------
+
 Flow chart diagram :
 
                    Flow chart diagram this is very important diagram of system planning 
