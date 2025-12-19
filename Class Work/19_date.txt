@@ -1,0 +1,97 @@
+19 Date:
+--------
+for online program if app not availabe in dsktop so we can use:   online gdb website
+
+
+Printf() :
+          
+                In c language printf is a function which is used to
+                Display message on output (console scrren)  
+    
+        Syntax: 
+
+        printf("message);
+
+        ; semicolon which is include end of the line
+
+        it is used to terminate statement
+
+ by defualt printf function join with previous function
+ ----------------------------------------------------------
+
+ escape sequence :
+
+             \n : new line
+             \t : tab 
+             \' : to display single quotes
+             \" : to display double quotes
+             \\ : to display slash
+
+
+ ---------------------------------------------------------
+
+ datatype : which type of value store in a variable its called datatype.
+
+                          values
+                            |
+                            V
+
+     numbers                                                character                             yes /not
+                                                          ------------                          -------------
+                                                                                                        |
+                                                          |                 |                           (boolean)
+                                                          single char      starting                 
+                                                                                                         true /false
+                                                          e.g.  A         "Hello"                         bool
+                                                    
+
+                                                          cahr       char [size]
+                                                          %c               %s
+        |
+ ----------------
+ |              |
+without        with point
+ point  
+
+ e.g. 15          150.50   
+
+ int (%d)         float (%f)
+                  double (%f)
+                  long double (%LF)
+(integer)       
+
+
+-----------------------------------------------------------------------------------------------
+
+variable : variable is name  which can store a value.
+
+           in a c language we can take any name as a variable
+
+           but there are some rules which we have to follow
+
+           variable devide in 3steps:-
+
+           1) variable declaration : 
+
+                before use with variable we must have to declare with specific data type.
+
+                syntax: <datatype>    variablename;
+
+            2)variable initilazation: 
+
+                       assign a value
+
+                       syntax : variable = value;
+
+            3)vraiabvle calling or variable use 
+
+                      syntax : print(variablename)           
+
+
+
+
+
+
+
+
+

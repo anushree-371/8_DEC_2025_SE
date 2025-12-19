@@ -1,0 +1,29 @@
+// variable declaration , initilazation and calling example
+#include<stdio.h>
+void main()
+{
+      //here int is a  datatype
+      //here, num is a variable
+      int num; //step 1 : variable declaration
+      
+      num = 10; // step 2 : variable initlization
+      
+      printf("num = %d",num); //step 3 : variable calling or use of variable
+      
+      printf("\n%d + %d = %d",num,num,num+num);
+}
+
+----------------------------------------------
+// addition,sub,multiplication
+#include<stdio.h>
+void main()
+{
+    int num1,num2,num3; //3 variable declarations 
+    num1 =10 ;
+    num2 = 20;
+    num3 = 30;
+    
+    printf("\n addition : %d +%d +%d = %d",num1,num2,num3,num1+num2+num3);
+      
+      
+}
